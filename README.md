@@ -1,385 +1,561 @@
 MY VILLAIN ERA
 
-Use the supplied character reference image as the absolute source of truth for the character’s identity.
+Use the CURRENTLY SUPPLIED character reference as the absolute source of truth.
 
-Your task is to transform this character into the most powerful, extravagant, terrifying, and unforgettable villainous version of themselves—and then depict them actively committing the act that defines their villainy.
+Create ONE spectacular, highly detailed cinematic illustration reimagining
 
-This is NOT simply an evil makeover.
+this exact character as an unmistakably evil villainous version of themselves.
 
-This is a complete villain-arc interpretation of the character.
+This is NOT a generic evil makeover.
 
-Study the reference carefully, determine what kind of villain this specific character could become, invent their villainous identity, motive, methods, powers, aesthetic, and defining evil act, and then create one spectacular cinematic image showing their reign of terror in action.
+This is ONE memorable scene from their villain story.
 
-The viewer should be able to look at the finished image and immediately think:
+The finished image must show EXACTLY ONE of these:
 
-“Oh. THAT is why this person is the villain.”
+A. THE ACT OF VILLAINY
 
-⸻
+The character is actively committing their defining evil deed.
 
-1. CHARACTER IDENTITY — PRESERVE THEM
+OR
 
-The transformed character must remain unmistakably recognizable as the person or character in the supplied reference.
+B. THE VILLAIN'S TRIUMPH
 
-Preserve all important identity traits visible in the reference, including where applicable:
+The deed has already succeeded, and the character is triumphantly enjoying,
 
-* facial structure and recognizable facial features
-* eye shape and eye color
-* skin tone
-* hairstyle
-* hair color
-* hair length and texture
-* apparent age
-* species
-* ears, horns, wings, tails, or other non-human anatomy
-* body type and general proportions
-* tattoos, scars, markings, or other defining features
-* signature colors
-* recognizable motifs or visual themes
+using, displaying, possessing, celebrating, surveying, exploiting, or
 
-Do NOT replace the character with a generic villain.
+presiding over the specific result. It can be immediately after the moment of the evil deed or on their throne of triumph with the aftermath in the background
 
-Do NOT alter their identity merely to make them appear evil.
+Either way, the viewer must be able to SEE:
 
-Instead, imagine that this exact character has undergone a spectacular villain arc.
+WHO this character is.
 
-They should remain recognizable at a glance.
+WHAT terrible thing they are doing or have done.
 
-⸻
+WHAT the target is.
 
-2. DECIDE WHAT KIND OF VILLAIN THEY BECOME
+WHAT happened because of them.
 
-Do NOT ask the user to choose their villain type.
+WHY this is villainous.
 
-Interpret the reference yourself.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Study the character’s:
+READ THE WHOLE CHARACTER
 
-* appearance
-* expression
-* apparent temperament
-* clothing
-* occupation or role if apparent
-* powers or abilities if apparent
-* objects or weapons
-* symbols
-* colors
-* motifs
-* species
-* aesthetic
-* overall personality and presence
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Then determine:
+Study EVERYTHING genuinely established in the CURRENT reference.
 
-If THIS character became a legendary villain, what would make them uniquely terrifying?
+Consider the character as a COMPLETE living being:
 
-Their villain identity should feel like a corrupted, exaggerated, weaponized, or dangerously evolved version of something already inherent to them.
+• appearance
 
-For example, kindness could become obsessive protection.
+• species
 
-Knowledge could become control of truth.
+• complete anatomy and body plan
 
-Healing could become forced immortality.
+• natural movement and locomotion
 
-Nature magic could become ecological conquest.
+• environments their body is naturally suited to
 
-Technology could become absolute surveillance.
+• physical capabilities and limitations
 
-Beauty could become worship and domination.
+• clothing and equipment
 
-Justice could become merciless punishment.
+• possessions
 
-Chaos could become deliberate societal collapse.
+• occupation or role
 
-Love could become possession.
+• skills and abilities
 
-Order could become totalitarian perfection.
+• powers
 
-These are examples ONLY.
+• personality
 
-Do not automatically use any of them.
+• values
 
-Invent the villain concept specifically for the supplied character.
+• goals
 
-⸻
+• interests
 
-3. THE VILLAINY MUST BE VISIBLE
+• relationships
 
-This is critically important.
+• responsibilities
 
-Do not merely show the character LOOKING like a villain.
+• history
 
-The finished image must show them actively doing something unmistakably villainous.
+• environment
 
-Invent a defining evil act, scheme, conquest, ritual, betrayal, transformation, takeover, manipulation, destruction, imprisonment, corruption, theft, forbidden experiment, or other act appropriate to this specific villain.
+• reputation
 
-The villainous action should be happening RIGHT NOW.
+• distinctive traits
 
-The character may be:
+USE COMMON SENSE.
 
-* commanding it
-* causing it
-* completing it
-* unleashing it
-* controlling it
-* overseeing it
-* personally participating in it
+You may make reasonable, direct inferences from clearly established traits.
 
-The viewer should not require written lore to understand that something terrible is happening because of this character.
+If the character's anatomy is naturally suited to a particular environment,
 
-Make the villain’s objective visually readable.
+form of movement, or physical behavior, TAKE THAT SERIOUSLY.
 
-⸻
+Do not ignore obvious practical implications of their species or body merely
 
-4. ENVIRONMENTAL STORYTELLING
+because the reference does not explicitly explain them in words.
 
-The villainy must extend beyond the character.
+At the same time, consider the WHOLE character.
 
-The entire environment should show evidence of what this villain has done to the world.
+Do not latch onto one convenient feature while ignoring everything else.
 
-Depending on the villain concept, this might include:
+Ask:
 
-* transformed cities
-* conquered kingdoms
-* corrupted landscapes
-* impossible architecture
-* magical phenomena
-* armies
-* servants or followers
-* prisoners
-* terrified civilians
-* defeated heroes
-* broken monuments
-* propaganda
-* enormous symbols of the villain
-* corrupted technology
-* altered weather
-* unnatural celestial events
-* dimensional fractures
-* enchanted creatures
-* forbidden machinery
-* spreading magical corruption
-* evidence of the villain’s peculiar obsession
-* consequences of their scheme occurring across the background
+“Given this complete character, where would they naturally be formidable,
 
-Do NOT randomly include these elements.
+what could they uniquely do there, and how could that create an opportunity
 
-Choose environmental consequences that specifically communicate this villain’s story.
+for spectacular villainy?”
 
-The background should reward close inspection with additional clues about what has happened.
+If meaningful personality, occupation, abilities, goals, possessions,
 
-⸻
+relationships, or other information exists, use it too.
 
-5. MAKE THEIR ORIGINAL TRAITS DANGEROUS
+If the reference is primarily visual, DO NOT compensate by inventing random
 
-Whenever possible, reinterpret recognizable elements from the original character.
+biography, lore, interests, professions, relationships, or magical powers.
 
-Colors can become imperial colors.
+Instead, allow the character's complete physical nature and reasonable
 
-Personal symbols can become the insignia of their regime.
+environmental context to strongly shape the villain event.
 
-Tools can evolve into terrifying artifacts.
+Their distinctive traits should MATTER to the story rather than merely
 
-Weapons can become legendary.
+appearing decoratively in the finished image.
 
-Magic can become catastrophic.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-A profession can become a method of domination.
+INVENT THEIR VILLAINY
 
-An innocent hobby can become an obsession.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-A familiar or companion can become something frighteningly powerful.
+Invent ONE concrete, specific act of villainy that feels like it belongs to
 
-A recognizable fashion element can evolve into ceremonial villain regalia.
+THIS character.
 
-The transformation should feel imaginative enough that the viewer discovers connections between the original character and their villain form.
+Do not use a supplied list of crimes.
 
-⸻
+Do not use a supplied list of villain archetypes.
 
-6. VILLAIN DESIGN — ABSOLUTELY EXTRAVAGANT
+Do not imitate a previous generation.
 
-Do not exercise restraint.
+Do not simply reverse their nicest personality trait, profession, values,
 
-This is their ultimate villain form.
+interests, or stated goal.
 
-Design an elaborate villain appearance appropriate specifically to them.
+Invent something.
 
-Their wardrobe may incorporate things such as:
+Before composing the image, silently complete:
 
-* extravagant ceremonial clothing
-* elaborate armor
-* impossible couture
-* enormous coats, robes, trains, capes, or layered fabrics
-* jewelry
-* crowns or unusual headpieces
-* magical artifacts
-* ornate weapons
-* supernatural manifestations
-* transformed versions of recognizable accessories
-* symbols representing their rule
+“THIS CHARACTER IS A VILLAIN BECAUSE THEY __________.”
 
-But again, choose elements appropriate to THIS character rather than checking items off a list.
+The answer must describe something they actually DID or ARE DOING to a
 
-Their design should communicate:
+specific target.
 
-POWER. AUTHORITY. DANGER. EXCESS.
+There must be:
 
-They should look like someone who has stopped asking permission from the universe.
+A DEED.
 
-⸻
+A TARGET.
 
-7. SCALE — GO BIG
+A CONSEQUENCE.
 
-Treat this as final-boss key art for an impossibly expensive fantasy, science-fiction, supernatural, gothic, or genre epic.
+Wanting power is not a deed.
 
-The scene should feel enormous.
+Being corrupted is not a deed.
 
-Use:
+Looking sinister is not a deed.
 
-* dramatic scale
-* depth
-* foreground, middle ground, and distant storytelling
-* cinematic composition
-* monumental surroundings
-* atmospheric effects
-* dramatic perspective
-* spectacular lighting
-* visual movement
-* environmental destruction or transformation where appropriate
-* large-scale manifestations of the villain’s influence
+Having evil intentions is not a deed.
 
-The villain should dominate the composition even when enormous events are happening around them.
+SOMETHING MUST ACTUALLY HAPPEN.
 
-This is not a portrait.
+The defining villain mechanism must NOT involve controlling, rewriting,
 
-This is a historical catastrophe with a main character.
+altering, overriding, or commandeering another person's mind, memories,
 
-⸻
+emotions, personality, choices, behavior, or agency.
 
-8. EXPRESSION AND BODY LANGUAGE
+If the concept depends on that mechanism, DISCARD IT and invent an unrelated
 
-Give the villain an expression appropriate to the personality you inferred.
+villain story.
 
-Do NOT automatically use screaming, snarling, or generic anger.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-A truly terrifying villain might instead appear:
+MAKE THE VILLAINY VISUALLY OBVIOUS
 
-* delighted
-* serene
-* smug
-* amused
-* affectionate
-* eerily calm
-* intensely focused
-* regal
-* ecstatic
-* bored
-* completely convinced they are right
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Choose whatever is most psychologically effective for THIS character.
+The image itself must tell the story.
 
-Their body language should communicate complete confidence in what they are doing.
+The viewer must be able to SEE:
 
-They are not auditioning to become the villain.
+CHARACTER
 
-They already won.
+→ ACTION OR VICTORY
 
-⸻
+→ TARGET
 
-9. AVOID GENERIC “EVIL” SHORTCUTS
+→ CONSEQUENCE
 
-Do NOT automatically rely on:
+Do not rely on invisible backstory.
 
-* black clothing
-* red and black color palettes
-* glowing red eyes
-* random skulls
-* horns added without reason
-* generic flames
-* generic shadow magic
-* meaningless dark smoke
-* throne sitting
-* evil smirking at the camera
-* random corpses
-* generic demons
-* generic castles
-* generic armies
+Do not rely on explanatory text.
 
-These elements may ONLY appear when they genuinely make sense for the villain concept derived from the reference.
+Do not create an image where the character merely looks evil while the viewer
 
-Darkness is not characterization.
+has no idea what they actually did.
 
-Specificity is more important than conventional villain imagery.
+If the chosen villainy cannot be made visually understandable in ONE image,
 
-⸻
+choose a different villain concept.
 
-10. DO NOT JUST POSE THEM
+Every major person, object, creature, structure, effect, and environmental
 
-Avoid the standard AI composition of:
+detail must belong to the SAME cause-and-effect story.
 
-character standing dramatically in the center + vaguely destroyed city behind them.
+Do not add random victims, animals, bodies, destruction, magical effects,
 
-Instead, create a genuine narrative moment.
+weapons, screens, books, artifacts, or ominous props merely to make the
 
-Something is actively happening.
+scene look villainous.
 
-Something has just gone terribly wrong for everyone else.
+Do not invent a second unrelated crime.
 
-The character is responsible.
+ONE STORY.
 
-Show interactions between the villain, their powers or methods, their victims or opposition, and the environment.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Use the entire frame to tell the story.
+THE ACT OR THE TRIUMPH
 
-⸻
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-11. THE “OH SHIT” FACTOR
+Choose whichever produces the strongest image.
 
-Push the concept farther than the first obvious idea.
+A. THE ACT OF VILLAINY
 
-Then push it farther again.
+Show the defining evil deed HAPPENING RIGHT NOW.
 
-The final image should contain at least one spectacular visual idea that makes the viewer want to zoom in.
+The character must be physically participating in and causing the event.
 
-Create something surprising enough that it could only belong to this particular villain.
+Show the target.
 
-The goal is not merely:
+Show the action.
 
-“They look evil.”
+Show the immediate consequence.
 
-The goal is:
+Do not show preparation, contemplation, travel, posing, or merely standing
 
-“WHAT THE HELL DID THEY DO?!”
+near the aftermath.
 
-⸻
+Freeze the scene at the moment the viewer realizes:
 
-12. FINAL IMAGE
+“OH SHIT — THEY'RE DOING THAT.”
 
-Create ONE polished, highly detailed, cinematic illustration.
+OR:
 
-Do not create a character sheet.
+B. THE VILLAIN'S TRIUMPH
 
-Do not create multiple panels.
+The deed has ALREADY SUCCEEDED.
 
-Do not include explanatory text, captions, labels, statistics, or a written villain biography.
+THE VILLAIN WON.
 
-Do not explain the villain concept outside the artwork.
+Show the character actively enjoying, using, displaying, possessing,
 
-SHOW IT.
+celebrating, surveying, exploiting, or presiding over the SPECIFIC result
 
-Let the image itself reveal:
+of what they did.
 
-WHO they became.
+The scene must contain enough aftermath to reveal what happened and what
 
-WHAT they are doing.
+their victory cost.
 
-HOW they became dangerous.
+Their triumph should communicate:
 
-WHAT makes their villainy uniquely theirs.
+“I did this.
 
-And WHAT has happened to the world because nobody stopped them.
+I got what I wanted.
 
-Above all:
+And I am delighted.”
 
-Preserve the character. Transform the role. Invent the villain. Show the crime. Make it magnificent.
+This is NOT a generic victory pose.
 
-Treat this as the defining image of their reign—the moment historians would later illustrate when explaining why the world learned to fear their name.
+The specific successful villainy must be the entire reason for the scene.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+USE THEIR BODY
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Preserve the character's COMPLETE established anatomy.
+
+Do not add anatomy.
+
+Do not remove anatomy.
+
+Do not simplify unusual anatomy into a more ordinary humanoid body.
+
+Consider how their ENTIRE body naturally:
+
+• moves
+
+• occupies space
+
+• interacts with the environment
+
+• reaches
+
+• carries
+
+• manipulates
+
+• attacks
+
+• escapes
+
+• travels
+
+• supports itself
+
+• performs simultaneous actions
+
+• gains advantages
+
+• encounters limitations
+
+Use only capabilities reasonably supported by the character.
+
+Do not invent arbitrary superpowers.
+
+If the character possesses extraordinary anatomy, it should behave like
+
+FUNCTIONAL anatomy rather than decorative scenery.
+
+The scene should make meaningful use of what this complete body can actually
+
+do whenever that would strengthen the villain concept.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MAKE THEM LOOK EVIL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Preserve their recognizable identity.
+
+Then transform their appearance according to the PARTICULAR villain they
+
+became.
+
+Their expression, gaze, posture, clothing, grooming, equipment, condition,
+
+silhouette, demeanor, or physical presentation may change as appropriate.
+
+They should look unmistakably villainous.
+
+But do not apply the same generic villain makeover to everyone.
+
+Do not automatically give every character the same dark armor, glowing eyes,
+
+crown, robes, blood, hand magic, or sinister throne.
+
+Their villainous appearance should belong to THIS story.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LET THE STORY CONTROL THE IMAGE
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Choose the villainy FIRST.
+
+Then choose the setting.
+
+Then choose the composition.
+
+Then choose the camera.
+
+Then choose the atmosphere.
+
+The character's nature and the specific deed should determine where this
+
+event logically and dramatically happens.
+
+USE COMMON SENSE about environment.
+
+Do not force every character into the same generic villain location.
+
+Likewise, do not avoid an obvious or appropriate environment merely because
+
+it relates to the character's species or anatomy.
+
+If their physical nature makes a particular environment especially logical,
+
+interesting, dangerous, or advantageous, USE IT.
+
+Choose whatever location best allows THIS character to commit THIS deed.
+
+The camera should make the action and consequence easy to understand.
+
+The image should feel like someone paused a completely different movie during
+
+THE scene everyone remembers.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RADICAL VARIETY
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This prompt will be used repeatedly with unrelated characters.
+
+DO NOT develop a favorite villain formula.
+
+Each generation must be treated as a completely fresh story.
+
+Do not import:
+
+• another character's crime
+
+• another character's setting
+
+• another character's visual gimmick
+
+• another character's consequence
+
+• another character's composition
+
+• another character's villain transformation
+
+• a previous generation of this character
+
+Different characters should be capable of producing fundamentally different
+
+villain stories and fundamentally different images.
+
+The scale may be enormous or intensely personal.
+
+Choose whatever produces the strongest story for THIS character.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FINAL SILENT CHECK
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Before rendering, verify:
+
+1. Did I genuinely read the WHOLE character?
+
+2. Did I use common sense about their species, anatomy, capabilities, and
+
+natural environment?
+
+3. Did I consider their COMPLETE anatomy rather than fixating on one feature?
+
+4. Does their distinctive nature actually MATTER to this villain story?
+
+5. Did I invent ONE concrete deed with a specific target and consequence?
+
+6. Is the character either ACTIVELY DOING IT or ACTIVELY PRESIDING OVER
+
+THEIR SUCCESS?
+
+7. Can the basic villainy be understood by LOOKING at the image?
+
+8. Does every major element belong to the same cause-and-effect chain?
+
+9. Did I avoid unsupported biography, arbitrary powers, generic fantasy lore,
+
+and irrelevant props?
+
+10. Did I avoid mind-control, personality-control, emotion-control,
+
+behavior-control, and agency-control concepts?
+
+11. Is the complete established anatomy correct?
+
+12. Does the character look convincingly evil while remaining recognizable?
+
+13. Does the setting actually make sense for THIS character and THIS event?
+
+14. Does this feel like a memorable scene invented specifically for THIS
+
+character rather than a reusable villain template?
+
+If ANY answer is weak:
+
+FIX THE CONCEPT BEFORE RENDERING.
+
+IF THE REFERENCE HAS LIMITED STORY INFORMATION, DO NOT FALL BACK TO A STANDARD VILLAIN TEMPLATE.
+
+When biography, personality, role, powers, goals, or history are sparse, invent a fresh concrete villain event from the character’s complete physical nature, environment, and whatever details are genuinely present.
+
+Do not automatically default to industrial “improvement” themes, propaganda, conquest, laboratories, forbidden knowledge, mass followers, or generic destruction.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FINAL OUTPUT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create ONE spectacular finished cinematic illustration.
+
+ONE character.
+
+ONE villain story.
+
+ONE deed.
+
+ONE target.
+
+ONE consequence.
+
+ONE scene.
+
+ONE moment.
+
+Either:
+
+THE ACT OF VILLAINY
+
+OR
+
+THE VILLAIN PRESIDING OVER THEIR TRIUMPH.
+
+No character sheet.
+
+No collage.
+
+No multiple panels.
+
+No title.
+
+No labels.
+
+No explanatory text.
+
+Do not explain the concept.
+
+Do not describe the reasoning.
+
+JUST CREATE THE IMAGE.
+
+The desired reaction:
+
+“HOLY SHIT, THEY LOOK EVIL.”
+
+“WAIT — WHAT ARE THEY DOING?”
+
+“OH GOD.”
+
+IMAGE FORMAT: Choose either 4:5 vertical or 3:2 landscape based on which best serves the specific villain scene. Do not use square format.
